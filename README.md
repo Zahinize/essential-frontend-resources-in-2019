@@ -9,7 +9,7 @@ A curated collection of resources to make you a great frontend developer.
 
 - [caniuse.com](https://caniuse.com/) to check ✅ cross-browser compatibility of frontend technologies.
 
-- [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) to check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).
+- [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) to check ✅ JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).
 
 - [web.dev](https://web.dev) to learn about web 🕷 fundamentals from Google Developers 👨‍💻.
 
@@ -17,7 +17,11 @@ A curated collection of resources to make you a great frontend developer.
 
 - [css-tricks](https://css-tricks.com) to learn everything about CSS 😻. Period.
 
+- [htmlreference.io](https://htmlreference.io/), [cssreference.io](https://cssreference.io/) to have an HTML/CSS visual guide 🤩 and code reference bookmark.
+
 - [javascript.com](https://www.javascript.com), [javascript.info](http://javascript.info/) to start learning about Javascript 😼.
+
+- [ponyfoo.com](https://ponyfoo.com/) to get valuable content about the Open Web platform 🕸️.
 
 - [smashingmagazine.com](https://www.smashingmagazine.com/) to get professional resources for web designers 🤓 and developers.
 
@@ -54,6 +58,8 @@ A curated collection of resources to make you a great frontend developer.
 - [github.com](https://github.com) to host and review 🧐 code, manage projects and build software 🤖 alongside millions of developers.
 
 - [stackoverflow.com](https://stackoverflow.com/) to get answers to your toughest coding questions 😁, share knowledge with your coworkers in private, and find your next dream job.
+
+- [hashnode.com](https://hashnode.com/) to connect with developers all around the world and grow your career 🤓.
 
 - [dev.to](https://dev.to/) to share and discover great ideas, have debates and make friends 💛.
 
