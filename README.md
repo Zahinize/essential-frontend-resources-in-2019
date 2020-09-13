@@ -63,6 +63,8 @@ A curated collection of resources to make you a great frontend developer.
 
 - [dev.to](https://dev.to/) to share and discover great ideas, have debates and make friends 💛.
 
+- [extendsclass.com](https://extendsclass.com/) to learn, build, test and discover frontend code.
+
 ## How To Contribute
 If you feel that I missed any essential web resource that should be added to above collection, please do one of the below mentioned steps.
 
